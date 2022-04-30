@@ -1,0 +1,8 @@
+{
+  "id": "eeee",
+  "version": "2.0.0",
+  "title": "eeeeee",
+  "description": "A mod that automatically loads a map when changes are detected",
+  "homepage": "https://github.com/CCDirectLink/map-watch",
+  "prestart": "src/prestart.js"
+}
