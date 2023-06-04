@@ -1,8 +1,9 @@
 {
-  "id": "cc-oldmedia",
+  "name": "CCOldMedia",
   "version": "1.0.0",
-  "title": "CC-OldMedia",
   "description": "A mod that brings back some old title screen assets.",
   "homepage": "https://github.com/lexisother/CCOldMedia",
-  "prestart": "src/prestart.js"
+  "module": true,
+  "prestart": "src/prestart.js",
+  "ccmodDependencies": {}
 }
