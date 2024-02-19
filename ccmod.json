@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "title": "CC-OldMedia",
   "description": "A mod that brings back some old title screen assets.",
-  "homepage": "https://github.com/lexisother/CCOldMedia",
+  "repository": "https://github.com/lexisother/CCOldMedia",
+  "tags": ["cosmetic"],
+  "authors": "lexisother",
   "prestart": "src/prestart.js"
 }
